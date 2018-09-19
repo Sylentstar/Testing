@@ -1,2 +1,1 @@
-# Testing
-Just a testing environment
+Readme information goes here.
